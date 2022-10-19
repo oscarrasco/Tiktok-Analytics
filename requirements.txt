@@ -8,6 +8,8 @@ beautifulsoup4==4.11.1
 
 blinker==1.5
 
+pystan==3.5.0
+
 cachetools==5.2.0
 
 certifi==2022.6.15
